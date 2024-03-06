@@ -108,15 +108,20 @@ func minMeetingRooms(_ intervals: [[Int]]) -> Int {
 
 print(lengthOfLongestSubstring("abcabcbb"))
 print(lengthOfLongestSubstring("bbbbb"))
+print()
 
 print(minWindow("ADOBECODEBANC", "ABC"))
 print(minWindow("a", "aa"))
+print()
 
 print(wordBreak("leetcode", ["leet","code"]))
 print(wordBreak("applepenapple", ["apple","pen"]))
+print()
 
 print(topKFrequent([1,1,1,2,2,3], 2))
 print(topKFrequent([1], 1))
+print()
 
 print(minMeetingRooms([[0, 30], [5, 10], [15, 20]]))
 print(minMeetingRooms([[7, 10], [2, 4]]))
+print()
